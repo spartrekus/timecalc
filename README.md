@@ -1,0 +1,2 @@
+# timecalc
+timecalc (ncurses)
